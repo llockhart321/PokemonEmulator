@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 776ff73867e194d2188d5d9914a3a94d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5703192053068015421
+    second: MaryPaul_0
+  - first:
+      213: 8268669829046745959
+    second: MaryPaul_1
+  - first:
+      213: -1139925911928719191
+    second: MaryPaul_2
+  - first:
+      213: 7970318167119685214
+    second: MaryPaul_3
+  - first:
+      213: 2833241730513188416
+    second: MaryPaul_4
+  - first:
+      213: 1370825943558900970
+    second: MaryPaul_5
+  - first:
+      213: -3431043235169518868
+    second: MaryPaul_6
+  - first:
+      213: -2820911371771765177
+    second: MaryPaul_7
+  - first:
+      213: 1635349463333599366
+    second: MaryPaul_8
+  - first:
+      213: 7460948094919141125
+    second: MaryPaul_9
+  - first:
+      213: -121059058116884470
+    second: MaryPaul_10
+  - first:
+      213: 7899007232762186364
+    second: MaryPaul_11
+  - first:
+      213: -3623993664411503767
+    second: MaryPaul_12
+  - first:
+      213: -5118792408315084521
+    second: MaryPaul_13
+  - first:
+      213: 3076623477302704985
+    second: MaryPaul_14
+  - first:
+      213: 5294506644296014992
+    second: MaryPaul_15
+  - first:
+      213: -1532086030383708065
+    second: MaryPaul_16
+  - first:
+      213: 7637247697979109146
+    second: MaryPaul_17
+  - first:
+      213: 8387627814793981891
+    second: MaryPaul_18
+  - first:
+      213: -7136713201150651123
+    second: MaryPaul_19
+  - first:
+      213: -631677956364479514
+    second: MaryPaul_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 215
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaryPaul_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 77
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8dc076b013ad0b0800000000000000
+      internalID: -5703192053068015421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 256
+        width: 71
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b3255766730c270800000000000000
+      internalID: 8268669829046745959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 256
+        width: 72
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8b9353c6b2e20f0800000000000000
+      internalID: -1139925911928719191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 256
+        width: 76
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e20af4224c9e60800000000000000
+      internalID: 7970318167119685214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 256
+        width: 71
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0463d0eb752b15720800000000000000
+      internalID: 2833241730513188416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 256
+        width: 68
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecc7b6cee6260310800000000000000
+      internalID: 1370825943558900970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 256
+        width: 78
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceab6b62b5c7260d0800000000000000
+      internalID: -3431043235169518868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 112
+        width: 74
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e1fae9d0c1ad8d0800000000000000
+      internalID: -2820911371771765177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 115
+        width: 74
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688ff952cade1b610800000000000000
+      internalID: 1635349463333599366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 115
+        width: 73
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507684533cc9a8760800000000000000
+      internalID: 7460948094919141125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 115
+        width: 70
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0889149d69e15ef0800000000000000
+      internalID: -121059058116884470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 115
+        width: 69
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a080b3a39ee9d60800000000000000
+      internalID: 7899007232762186364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 115
+        width: 70
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9637c7486fcf4bdc0800000000000000
+      internalID: -3623993664411503767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 112
+        width: 76
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711c967dc6566f8b0800000000000000
+      internalID: -5118792408315084521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b314080cc52ba20800000000000000
+      internalID: 3076623477302704985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c9532ddbdd97940800000000000000
+      internalID: 5294506644296014992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5804a96fdfecbae0800000000000000
+      internalID: -1532086030383708065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fe6b34154fcf960800000000000000
+      internalID: 7637247697979109146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 5
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf2bf8de07d66470800000000000000
+      internalID: 8387627814793981891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 5
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05139dc72d45fc90800000000000000
+      internalID: -7136713201150651123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaryPaul_20
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 5
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e35376de34db37f0800000000000000
+      internalID: -631677956364479514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MaryPaul_0: -5703192053068015421
+      MaryPaul_1: 8268669829046745959
+      MaryPaul_10: -121059058116884470
+      MaryPaul_11: 7899007232762186364
+      MaryPaul_12: -3623993664411503767
+      MaryPaul_13: -5118792408315084521
+      MaryPaul_14: 3076623477302704985
+      MaryPaul_15: 5294506644296014992
+      MaryPaul_16: -1532086030383708065
+      MaryPaul_17: 7637247697979109146
+      MaryPaul_18: 8387627814793981891
+      MaryPaul_19: -7136713201150651123
+      MaryPaul_2: -1139925911928719191
+      MaryPaul_20: -631677956364479514
+      MaryPaul_3: 7970318167119685214
+      MaryPaul_4: 2833241730513188416
+      MaryPaul_5: 1370825943558900970
+      MaryPaul_6: -3431043235169518868
+      MaryPaul_7: -2820911371771765177
+      MaryPaul_8: 1635349463333599366
+      MaryPaul_9: 7460948094919141125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

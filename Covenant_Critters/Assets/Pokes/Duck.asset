@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: Duck
+  m_EditorClassIdentifier: 
+  pokeName: public class Duck
+  baseHP: 100
+  baseAttack: 3
+  baseDefense: 3
+  typeClass: water
+  frontSprite: {fileID: 7985399224721395656, guid: 7d5daeef019527c408ca64764612b28c, type: 3}
+  backSprite: {fileID: 7006749878789327722, guid: e0efafe7aad0f0a458538fd082c7dc5c, type: 3}
+  inventorySprite: {fileID: 7985399224721395656, guid: 7d5daeef019527c408ca64764612b28c, type: 3}
+  attacks:
+  - attackName: Splash();
+    amount: 17
+    type: 1
+  - attackName: public void Quack()
+    amount: 8
+    type: 5
+  - attackName: Duck.initailize;
+    amount: 8
+    type: 2
+  - attackName: --EnemyDamage;
+    amount: 5
+    type: 4

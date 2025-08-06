@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: EBIkersRat
+  m_EditorClassIdentifier: 
+  pokeName: RAT
+  baseHP: 100
+  baseAttack: 1
+  baseDefense: 4
+  typeClass: grass
+  frontSprite: {fileID: -7728451017590509097, guid: b90e42994d64c4b44887712c2df8437e, type: 3}
+  backSprite: {fileID: -7728451017590509097, guid: b90e42994d64c4b44887712c2df8437e, type: 3}
+  inventorySprite: {fileID: -7728451017590509097, guid: b90e42994d64c4b44887712c2df8437e, type: 3}
+  attacks:
+  - attackName: Fester
+    amount: 6
+    type: 2
+  - attackName: Ratcall
+    amount: 10
+    type: 4
+  - attackName: Nibble
+    amount: 5
+    type: 1
+  - attackName: Nest
+    amount: 5
+    type: 5

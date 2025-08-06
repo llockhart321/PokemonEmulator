@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 5bc785b2bcf104b548ac59648b318e58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3001276795596673524
+    second: NoahShawTa_0
+  - first:
+      213: 6111358296981318251
+    second: NoahShawTa_1
+  - first:
+      213: 7054939771834996864
+    second: NoahShawTa_2
+  - first:
+      213: 7688349979353087389
+    second: NoahShawTa_3
+  - first:
+      213: 5448548889675136607
+    second: NoahShawTa_4
+  - first:
+      213: -8459109946381928528
+    second: NoahShawTa_5
+  - first:
+      213: 4851133824169076036
+    second: NoahShawTa_6
+  - first:
+      213: 7182591540980956749
+    second: NoahShawTa_7
+  - first:
+      213: -915292482905879502
+    second: NoahShawTa_8
+  - first:
+      213: -8442003962315798959
+    second: NoahShawTa_9
+  - first:
+      213: 7856671422795111124
+    second: NoahShawTa_10
+  - first:
+      213: -3277662780438810083
+    second: NoahShawTa_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 230
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NoahShawTa_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 333
+        width: 76
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e66d5e7a25956d0800000000000000
+      internalID: -3001276795596673524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 334
+        width: 72
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a25b2edf7efc450800000000000000
+      internalID: 6111358296981318251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 333
+        width: 68
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0881004085e28e160800000000000000
+      internalID: 7054939771834996864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 333
+        width: 76
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9df834529182ba60800000000000000
+      internalID: 7688349979353087389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 177
+        width: 76
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e7f66f8522d9b40800000000000000
+      internalID: 5448548889675136607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 177
+        width: 71
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b77ee172543b9a80800000000000000
+      internalID: -8459109946381928528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 177
+        width: 67
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ea7bb280b25340800000000000000
+      internalID: 4851133824169076036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 176
+        width: 76
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e35e693f0bda360800000000000000
+      internalID: 7182591540980956749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 21
+        width: 77
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c4fc2165a3c43f0800000000000000
+      internalID: -915292482905879502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 21
+        width: 72
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1560ab9bf1af7da80800000000000000
+      internalID: -8442003962315798959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 21
+        width: 68
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da5aa85801880d60800000000000000
+      internalID: 7856671422795111124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoahShawTa_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 21
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12fc6621176382d0800000000000000
+      internalID: -3277662780438810083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NoahShawTa_0: -3001276795596673524
+      NoahShawTa_1: 6111358296981318251
+      NoahShawTa_10: 7856671422795111124
+      NoahShawTa_11: -3277662780438810083
+      NoahShawTa_2: 7054939771834996864
+      NoahShawTa_3: 7688349979353087389
+      NoahShawTa_4: 5448548889675136607
+      NoahShawTa_5: -8459109946381928528
+      NoahShawTa_6: 4851133824169076036
+      NoahShawTa_7: 7182591540980956749
+      NoahShawTa_8: -915292482905879502
+      NoahShawTa_9: -8442003962315798959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

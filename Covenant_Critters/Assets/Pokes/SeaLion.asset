@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: SeaLion
+  m_EditorClassIdentifier: 
+  pokeName: sealion
+  baseHP: 100
+  baseAttack: 4
+  baseDefense: 1
+  typeClass: water
+  frontSprite: {fileID: 8860984649701847638, guid: a10c8f7abedf64858a70af94ee39489f, type: 3}
+  backSprite: {fileID: -6012807978541047375, guid: c4112c56f6ef74d2bb1ba1bccea3b8a0, type: 3}
+  inventorySprite: {fileID: 8860984649701847638, guid: a10c8f7abedf64858a70af94ee39489f, type: 3}
+  attacks:
+  - attackName: Bite
+    amount: 20
+    type: 1
+  - attackName: Splash
+    amount: 5
+    type: 1
+  - attackName: Fin Slap
+    amount: 12
+    type: 1
+  - attackName: aaruwgh
+    amount: 10
+    type: 3

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 0d95050dac01641b9a77484842fdfc59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8349068434368033254
+    second: MikeLeih_0
+  - first:
+      213: -7505821886486232853
+    second: MikeLeih_1
+  - first:
+      213: -2676463502506149784
+    second: MikeLeih_2
+  - first:
+      213: 429317168054225536
+    second: MikeLeih_3
+  - first:
+      213: -5341873652273554240
+    second: MikeLeih_4
+  - first:
+      213: -8201900357026768377
+    second: MikeLeih_5
+  - first:
+      213: 2655918061646880815
+    second: MikeLeih_6
+  - first:
+      213: -7618876360777046763
+    second: MikeLeih_7
+  - first:
+      213: 8074193039337420909
+    second: MikeLeih_8
+  - first:
+      213: -3664730813660901697
+    second: MikeLeih_9
+  - first:
+      213: 8525357808482802492
+    second: MikeLeih_10
+  - first:
+      213: -1238188476078407348
+    second: MikeLeih_11
+  - first:
+      213: -5148306496270376022
+    second: MikeLeih_12
+  - first:
+      213: -5051122893660518107
+    second: MikeLeih_13
+  - first:
+      213: 6096133974116853262
+    second: MikeLeih_14
+  - first:
+      213: -1213776348328939301
+    second: MikeLeih_15
+  - first:
+      213: -2874584026461595691
+    second: MikeLeih_16
+  - first:
+      213: -6564842840124193083
+    second: MikeLeih_17
+  - first:
+      213: -3540644976718445960
+    second: MikeLeih_18
+  - first:
+      213: 1204920823173700618
+    second: MikeLeih_19
+  - first:
+      213: -6240013714001572503
+    second: MikeLeih_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MikeLeih_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 267
+        width: 68
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e01148e76222c80800000000000000
+      internalID: -8349068434368033254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 63
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0c2a403c6f5d790800000000000000
+      internalID: -7505821886486232853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 269
+        width: 65
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b2deff9a4bdad0800000000000000
+      internalID: -2676463502506149784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 269
+        width: 64
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a49d190bd35f500800000000000000
+      internalID: 429317168054225536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 269
+        width: 64
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc5739373addd5b0800000000000000
+      internalID: -5341873652273554240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 269
+        width: 63
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a1540b41ffc2e80800000000000000
+      internalID: -8201900357026768377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 269
+        width: 62
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20a109c767bbd420800000000000000
+      internalID: 2655918061646880815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 67
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51563400150544690800000000000000
+      internalID: -7618876360777046763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 135
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6873a55acb4d0070800000000000000
+      internalID: 8074193039337420909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 135
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe4056ddb2442dc0800000000000000
+      internalID: -3664730813660901697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 135
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b58bde1c7205670800000000000000
+      internalID: 8525357808482802492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 135
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c414d56242211dee0800000000000000
+      internalID: -1238188476078407348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 135
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3e7feb48a8d88b0800000000000000
+      internalID: -5148306496270376022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 135
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529858e7d7ec6e9b0800000000000000
+      internalID: -5051122893660518107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06ec6efc81d99450800000000000000
+      internalID: 6096133974116853262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0351197dcc72fe0800000000000000
+      internalID: -1213776348328939301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 6
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d79eb1ee0d6b18d0800000000000000
+      internalID: -2874584026461595691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 6
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6812c083ef4e4a0800000000000000
+      internalID: -6564842840124193083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 6
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8720dee172a1ddec0800000000000000
+      internalID: -3540644976718445960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 6
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c5dbfca1db8b010800000000000000
+      internalID: 1204920823173700618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikeLeih_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 6
+        width: 59
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dce5f86940769a0800000000000000
+      internalID: -6240013714001572503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MikeLeih_0: -8349068434368033254
+      MikeLeih_1: -7505821886486232853
+      MikeLeih_10: 8525357808482802492
+      MikeLeih_11: -1238188476078407348
+      MikeLeih_12: -5148306496270376022
+      MikeLeih_13: -5051122893660518107
+      MikeLeih_14: 6096133974116853262
+      MikeLeih_15: -1213776348328939301
+      MikeLeih_16: -2874584026461595691
+      MikeLeih_17: -6564842840124193083
+      MikeLeih_18: -3540644976718445960
+      MikeLeih_19: 1204920823173700618
+      MikeLeih_2: -2676463502506149784
+      MikeLeih_20: -6240013714001572503
+      MikeLeih_3: 429317168054225536
+      MikeLeih_4: -5341873652273554240
+      MikeLeih_5: -8201900357026768377
+      MikeLeih_6: 2655918061646880815
+      MikeLeih_7: -7618876360777046763
+      MikeLeih_8: 8074193039337420909
+      MikeLeih_9: -3664730813660901697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

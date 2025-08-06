@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: Pikadre
+  m_EditorClassIdentifier: 
+  pokeName: Pikadre
+  baseHP: 100
+  baseAttack: 2
+  baseDefense: 2
+  typeClass: normal
+  frontSprite: {fileID: 2579067995454603884, guid: 9fac28daa770dc64d8849316f2cda0bf, type: 3}
+  backSprite: {fileID: 2579067995454603884, guid: 9fac28daa770dc64d8849316f2cda0bf, type: 3}
+  inventorySprite: {fileID: 2579067995454603884, guid: 9fac28daa770dc64d8849316f2cda0bf, type: 3}
+  attacks:
+  - attackName: Dash
+    amount: 7
+    type: 3
+  - attackName: Tail Whip
+    amount: 15
+    type: 1
+  - attackName: Conduct
+    amount: 15
+    type: 2
+  - attackName: Conduct
+    amount: 15
+    type: 4

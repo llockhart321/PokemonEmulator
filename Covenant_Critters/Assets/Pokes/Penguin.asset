@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: Penguin
+  m_EditorClassIdentifier: 
+  pokeName: Penguin
+  baseHP: 100
+  baseAttack: 2
+  baseDefense: 3
+  typeClass: water
+  frontSprite: {fileID: -4995732212002570840, guid: a77cfe77120b90c44a5ab5b21c4d0657, type: 3}
+  backSprite: {fileID: -5023050432799081761, guid: 8cebc9baa277f704daf9e62fca3998bb, type: 3}
+  inventorySprite: {fileID: -4995732212002570840, guid: a77cfe77120b90c44a5ab5b21c4d0657, type: 3}
+  attacks:
+  - attackName: Peck
+    amount: 5
+    type: 5
+  - attackName: Waddle
+    amount: 5
+    type: 2
+  - attackName: Fly ;)
+    amount: 0
+    type: 3
+  - attackName: Whirlpool
+    amount: 15
+    type: 1

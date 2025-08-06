@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: Crow
+  m_EditorClassIdentifier: 
+  pokeName: Crow
+  baseHP: 100
+  baseAttack: 3
+  baseDefense: 2
+  typeClass: grass
+  frontSprite: {fileID: -5457010259633849060, guid: db18c5281d382f54cb9b2e5474881dec, type: 3}
+  backSprite: {fileID: 6108669360449108720, guid: 94cbd955f6a648d43abe44cddd0c6456, type: 3}
+  inventorySprite: {fileID: -5457010259633849060, guid: db18c5281d382f54cb9b2e5474881dec, type: 3}
+  attacks:
+  - attackName: CRAW
+    amount: 4
+    type: 4
+  - attackName: DiveBomb
+    amount: 16
+    type: 1
+  - attackName: Scavenge
+    amount: 5
+    type: 3
+  - attackName: Flap
+    amount: 5
+    type: 5

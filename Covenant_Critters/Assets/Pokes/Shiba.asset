@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: Shiba
+  m_EditorClassIdentifier: 
+  pokeName: Shiba
+  baseHP: 100
+  baseAttack: 2
+  baseDefense: 2
+  typeClass: normal
+  frontSprite: {fileID: -7554296478536651278, guid: aa46e971fc2d844408fc49dc63eec131, type: 3}
+  backSprite: {fileID: -7554296478536651278, guid: aa46e971fc2d844408fc49dc63eec131, type: 3}
+  inventorySprite: {fileID: -7554296478536651278, guid: aa46e971fc2d844408fc49dc63eec131, type: 3}
+  attacks:
+  - attackName: Factor
+    amount: 6
+    type: 4
+  - attackName: Calculate
+    amount: 7
+    type: 2
+  - attackName: Integrate
+    amount: 15
+    type: 3
+  - attackName: Differentiate
+    amount: 20
+    type: 1

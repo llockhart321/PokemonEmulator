@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: a4384d072eb034784a91e7bd150246be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1623745393489272014
+    second: DrJMenjarez_0
+  - first:
+      213: -8932202174103473201
+    second: DrJMenjarez_1
+  - first:
+      213: 2582485575685716496
+    second: DrJMenjarez_2
+  - first:
+      213: -6192896469604353885
+    second: DrJMenjarez_3
+  - first:
+      213: 4049562934783013725
+    second: DrJMenjarez_4
+  - first:
+      213: 4346191165835777956
+    second: DrJMenjarez_5
+  - first:
+      213: 1988254180817357860
+    second: DrJMenjarez_6
+  - first:
+      213: -5621988072992515837
+    second: DrJMenjarez_7
+  - first:
+      213: -8451224857427879484
+    second: DrJMenjarez_8
+  - first:
+      213: -7993794741204468245
+    second: DrJMenjarez_9
+  - first:
+      213: 5324593106844713326
+    second: DrJMenjarez_10
+  - first:
+      213: 1335212155946154992
+    second: DrJMenjarez_11
+  - first:
+      213: -968370692109509800
+    second: DrJMenjarez_12
+  - first:
+      213: 8262386969696660862
+    second: DrJMenjarez_13
+  - first:
+      213: -2160974361964840748
+    second: DrJMenjarez_14
+  - first:
+      213: 862688415111474962
+    second: DrJMenjarez_15
+  - first:
+      213: -4169757507523479318
+    second: DrJMenjarez_16
+  - first:
+      213: 8841981844833921615
+    second: DrJMenjarez_17
+  - first:
+      213: 5446056423845230729
+    second: DrJMenjarez_18
+  - first:
+      213: -7717324030205155583
+    second: DrJMenjarez_19
+  - first:
+      213: -796581089963646635
+    second: DrJMenjarez_20
+  - first:
+      213: 1576931831519910396
+    second: DrJMenjarez_21
+  - first:
+      213: 5085039534480978840
+    second: DrJMenjarez_22
+  - first:
+      213: -741579657469532151
+    second: DrJMenjarez_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DrJMenjarez_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 360
+        width: 65
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2332567ea2c4779e0800000000000000
+      internalID: -1623745393489272014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 363
+        width: 65
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3379e82717a0480800000000000000
+      internalID: -8932202174103473201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 361
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a3150d2f4d6d320800000000000000
+      internalID: 2582485575685716496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 361
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a83676e8796e0aa0800000000000000
+      internalID: -6192896469604353885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 360
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53745f9800f23830800000000000000
+      internalID: 4049562934783013725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 359
+        width: 59
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7159596d5c05c30800000000000000
+      internalID: 4346191165835777956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 226
+        width: 65
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ccdcaa4a2b79b10800000000000000
+      internalID: 1988254180817357860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 229
+        width: 64
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3095cc952afaaf1b0800000000000000
+      internalID: -5621988072992515837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 224
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c95f08c4c737ba80800000000000000
+      internalID: -8451224857427879484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 226
+        width: 61
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3f1b2906501190800000000000000
+      internalID: -7993794741204468245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 226
+        width: 63
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6109f24831c4e940800000000000000
+      internalID: 5324593106844713326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 226
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb34fea160a78210800000000000000
+      internalID: 1335212155946154992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 65
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bd9e57cf7af82f0800000000000000
+      internalID: -968370692109509800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 93
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7de5954c25e9a270800000000000000
+      internalID: 8262386969696660862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 91
+        width: 61
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8fb52644da202e0800000000000000
+      internalID: -2160974361964840748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 91
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f6096fa82e8fb00800000000000000
+      internalID: 862688415111474962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 90
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae87b84a3ab0226c0800000000000000
+      internalID: -4169757507523479318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 91
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a67cb14a705ba70800000000000000
+      internalID: 8841981844833921615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988770a8677449b40800000000000000
+      internalID: 5446056423845230729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1072903ceae86e490800000000000000
+      internalID: -7717324030205155583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5516ce918b9f1f4f0800000000000000
+      internalID: -796581089963646635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf910c4552362e510800000000000000
+      internalID: 1576931831519910396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8937e81d380b19640800000000000000
+      internalID: 5085039534480978840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrJMenjarez_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9086fd70b3165b5f0800000000000000
+      internalID: -741579657469532151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DrJMenjarez_0: -1623745393489272014
+      DrJMenjarez_1: -8932202174103473201
+      DrJMenjarez_10: 5324593106844713326
+      DrJMenjarez_11: 1335212155946154992
+      DrJMenjarez_12: -968370692109509800
+      DrJMenjarez_13: 8262386969696660862
+      DrJMenjarez_14: -2160974361964840748
+      DrJMenjarez_15: 862688415111474962
+      DrJMenjarez_16: -4169757507523479318
+      DrJMenjarez_17: 8841981844833921615
+      DrJMenjarez_18: 5446056423845230729
+      DrJMenjarez_19: -7717324030205155583
+      DrJMenjarez_2: 2582485575685716496
+      DrJMenjarez_20: -796581089963646635
+      DrJMenjarez_21: 1576931831519910396
+      DrJMenjarez_22: 5085039534480978840
+      DrJMenjarez_23: -741579657469532151
+      DrJMenjarez_3: -6192896469604353885
+      DrJMenjarez_4: 4049562934783013725
+      DrJMenjarez_5: 4346191165835777956
+      DrJMenjarez_6: 1988254180817357860
+      DrJMenjarez_7: -5621988072992515837
+      DrJMenjarez_8: -8451224857427879484
+      DrJMenjarez_9: -7993794741204468245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

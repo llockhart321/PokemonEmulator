@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: cce0240f6afe84a80b095b0658d95b5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6577315785005842628
+    second: BenjaminMood_0
+  - first:
+      213: -847568686283354822
+    second: BenjaminMood_1
+  - first:
+      213: -2422776975561071843
+    second: BenjaminMood_2
+  - first:
+      213: -1171564618791969303
+    second: BenjaminMood_3
+  - first:
+      213: -8333376445727740181
+    second: BenjaminMood_4
+  - first:
+      213: 2956769771246391404
+    second: BenjaminMood_5
+  - first:
+      213: 4333453435760271474
+    second: BenjaminMood_6
+  - first:
+      213: 5461967878722881664
+    second: BenjaminMood_7
+  - first:
+      213: 6827014994639733919
+    second: BenjaminMood_8
+  - first:
+      213: 553658338569219636
+    second: BenjaminMood_9
+  - first:
+      213: 7752462294523541709
+    second: BenjaminMood_10
+  - first:
+      213: -8383544535517130044
+    second: BenjaminMood_11
+  - first:
+      213: -6961478491682146166
+    second: BenjaminMood_12
+  - first:
+      213: -7705809822277664495
+    second: BenjaminMood_13
+  - first:
+      213: 2175654223726387842
+    second: BenjaminMood_14
+  - first:
+      213: 1228104521185864114
+    second: BenjaminMood_15
+  - first:
+      213: -2369225406748047692
+    second: BenjaminMood_16
+  - first:
+      213: 7616521206736057805
+    second: BenjaminMood_17
+  - first:
+      213: -8033403999604765392
+    second: BenjaminMood_18
+  - first:
+      213: 6085943847996268873
+    second: BenjaminMood_19
+  - first:
+      213: 6043370880825786545
+    second: BenjaminMood_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BenjaminMood_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 63
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f3823442ea8b4a0800000000000000
+      internalID: -6577315785005842628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 56
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d065b35c4dc34f0800000000000000
+      internalID: -847568686283354822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 277
+        width: 56
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13efa95d21906ed0800000000000000
+      internalID: -2422776975561071843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 277
+        width: 57
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed1d79bf24cdbfe0800000000000000
+      internalID: -1171564618791969303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 277
+        width: 60
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee6ac45646e95c80800000000000000
+      internalID: -8333376445727740181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 277
+        width: 61
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6011c9f07e880920800000000000000
+      internalID: 2956769771246391404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 276
+        width: 61
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270ef21b0f4832c30800000000000000
+      internalID: 4333453435760271474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 149
+        width: 56
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0880fd1d8decccb40800000000000000
+      internalID: 5461967878722881664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 149
+        width: 53
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9444cf67fd6ebe50800000000000000
+      internalID: 6827014994639733919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 149
+        width: 57
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ee955535dfea700800000000000000
+      internalID: 553658338569219636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 149
+        width: 60
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc87fafe167469b60800000000000000
+      internalID: 7752462294523541709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 149
+        width: 59
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c295d1b9aaa7ab80800000000000000
+      internalID: -8383544535517130044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 149
+        width: 61
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8873cff13cd36f90800000000000000
+      internalID: -6961478491682146166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 149
+        width: 58
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1118c643bc67f0590800000000000000
+      internalID: -7705809822277664495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 56
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2822a474df9713e10800000000000000
+      internalID: 2175654223726387842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 21
+        width: 54
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9a5542e8a1b0110800000000000000
+      internalID: 1228104521185864114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 21
+        width: 56
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6c3f59b02de1fd0800000000000000
+      internalID: -2369225406748047692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 21
+        width: 59
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc57bb7fea153b960800000000000000
+      internalID: 7616521206736057805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 21
+        width: 57
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d0b5a00ad938090800000000000000
+      internalID: -8033403999604765392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 20
+        width: 61
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941aace5fad957450800000000000000
+      internalID: 6085943847996268873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenjaminMood_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 21
+        width: 60
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b08f850ccd5ed350800000000000000
+      internalID: 6043370880825786545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3a1c17e98194d49538eee9fa31dfb42b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BenjaminMood_0: -6577315785005842628
+      BenjaminMood_1: -847568686283354822
+      BenjaminMood_10: 7752462294523541709
+      BenjaminMood_11: -8383544535517130044
+      BenjaminMood_12: -6961478491682146166
+      BenjaminMood_13: -7705809822277664495
+      BenjaminMood_14: 2175654223726387842
+      BenjaminMood_15: 1228104521185864114
+      BenjaminMood_16: -2369225406748047692
+      BenjaminMood_17: 7616521206736057805
+      BenjaminMood_18: -8033403999604765392
+      BenjaminMood_19: 6085943847996268873
+      BenjaminMood_2: -2422776975561071843
+      BenjaminMood_20: 6043370880825786545
+      BenjaminMood_3: -1171564618791969303
+      BenjaminMood_4: -8333376445727740181
+      BenjaminMood_5: 2956769771246391404
+      BenjaminMood_6: 4333453435760271474
+      BenjaminMood_7: 5461967878722881664
+      BenjaminMood_8: 6827014994639733919
+      BenjaminMood_9: 553658338569219636
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

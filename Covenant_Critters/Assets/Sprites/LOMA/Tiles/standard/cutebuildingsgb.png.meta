@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 27a9074e1de99644d8e47b5cf497846d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3340534982695251793
+    second: cutebuildingsgb_0
+  - first:
+      213: 8639351289897517807
+    second: cutebuildingsgb_1
+  - first:
+      213: -867278958996053670
+    second: cutebuildingsgb_2
+  - first:
+      213: 1095642015304721124
+    second: cutebuildingsgb_3
+  - first:
+      213: 7630217650477635088
+    second: cutebuildingsgb_4
+  - first:
+      213: 2738009933167403245
+    second: cutebuildingsgb_5
+  - first:
+      213: -1352588481311801558
+    second: cutebuildingsgb_6
+  - first:
+      213: -9138030927661235256
+    second: cutebuildingsgb_7
+  - first:
+      213: 3372187194439152785
+    second: cutebuildingsgb_8
+  - first:
+      213: 1502997970701713531
+    second: cutebuildingsgb_9
+  - first:
+      213: -3773168634513378224
+    second: cutebuildingsgb_10
+  - first:
+      213: -8875322643530889901
+    second: cutebuildingsgb_11
+  - first:
+      213: -2439805507081060468
+    second: cutebuildingsgb_12
+  - first:
+      213: -331451052593452111
+    second: cutebuildingsgb_13
+  - first:
+      213: 3176367753625050702
+    second: cutebuildingsgb_14
+  - first:
+      213: 1310791498944720424
+    second: cutebuildingsgb_15
+  - first:
+      213: -3788257602691584020
+    second: cutebuildingsgb_16
+  - first:
+      213: 7762659156615001940
+    second: cutebuildingsgb_17
+  - first:
+      213: 7569149154047603523
+    second: cutebuildingsgb_18
+  - first:
+      213: -2674564007366570750
+    second: cutebuildingsgb_19
+  - first:
+      213: -3065380223469121166
+    second: cutebuildingsgb_20
+  - first:
+      213: 7535464625156703610
+    second: cutebuildingsgb_21
+  - first:
+      213: -1249233064042869483
+    second: cutebuildingsgb_22
+  - first:
+      213: -8317277568690833028
+    second: cutebuildingsgb_23
+  - first:
+      213: -5729100275448600935
+    second: cutebuildingsgb_24
+  - first:
+      213: -3690895574354336636
+    second: cutebuildingsgb_25
+  - first:
+      213: 7567305171826138310
+    second: cutebuildingsgb_26
+  - first:
+      213: -2966904359306945827
+    second: cutebuildingsgb_27
+  - first:
+      213: 3470991830670108095
+    second: cutebuildingsgb_28
+  - first:
+      213: -6589174805941547518
+    second: cutebuildingsgb_29
+  - first:
+      213: 7353218184824543866
+    second: cutebuildingsgb_30
+  - first:
+      213: 381885278605852903
+    second: cutebuildingsgb_31
+  - first:
+      213: -6149836624072933969
+    second: cutebuildingsgb_32
+  - first:
+      213: 2805145457526690103
+    second: cutebuildingsgb_33
+  - first:
+      213: 6635506946097107565
+    second: cutebuildingsgb_34
+  - first:
+      213: -631463811520890550
+    second: cutebuildingsgb_35
+  - first:
+      213: -85095441591662826
+    second: cutebuildingsgb_36
+  - first:
+      213: 1918998668998199148
+    second: cutebuildingsgb_37
+  - first:
+      213: 8403060208126224727
+    second: cutebuildingsgb_38
+  - first:
+      213: -6181322375098553012
+    second: cutebuildingsgb_39
+  - first:
+      213: -5554180991911307903
+    second: cutebuildingsgb_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cutebuildingsgb_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 247
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fe05b2ed6fb5e20800000000000000
+      internalID: 3340534982695251793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe28724993425e770800000000000000
+      internalID: 8639351289897517807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 246
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51aedfb16ec6f3f0800000000000000
+      internalID: -867278958996053670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 248
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e22b33ab90843f00800000000000000
+      internalID: 1095642015304721124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 167
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01692a7c68af3e960800000000000000
+      internalID: 7630217650477635088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 151
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de02fe1178d5ff520800000000000000
+      internalID: 2738009933167403245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 216
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fff1c41f3aa3de0800000000000000
+      internalID: -1352588481311801558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 200
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3083269413f2180800000000000000
+      internalID: -9138030927661235256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 200
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194baa0036a6cce20800000000000000
+      internalID: 3372187194439152785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b700fcde0b8bbd410800000000000000
+      internalID: 1502997970701713531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 185
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0543f263e1303abc0800000000000000
+      internalID: -3773168634513378224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3554c55441584d480800000000000000
+      internalID: -8875322643530889901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 185
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f346561d1142ed0800000000000000
+      internalID: -2439805507081060468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbecb51603766bf0800000000000000
+      internalID: -331451052593452111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 185
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e93de84a9b41c20800000000000000
+      internalID: 3176367753625050702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ea3356cedd03210800000000000000
+      internalID: 1310791498944720424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 185
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef25e908c76d6bc0800000000000000
+      internalID: -3788257602691584020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4577876ef518abb60800000000000000
+      internalID: 7762659156615001940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 185
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343b4f27d050b0960800000000000000
+      internalID: 7569149154047603523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dcedba43a02ead0800000000000000
+      internalID: -2674564007366570750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 185
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2719d968de49575d0800000000000000
+      internalID: -3065380223469121166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ccf7e629539860800000000000000
+      internalID: 7535464625156703610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d4d00a525d9aee0800000000000000
+      internalID: -1249233064042869483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79bbdb3e18139c80800000000000000
+      internalID: -8317277568690833028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 140
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9962b4f47a52e70b0800000000000000
+      internalID: -5729100275448600935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4846c83c70e47ccc0800000000000000
+      internalID: -3690895574354336636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc5ca1e5f7740960800000000000000
+      internalID: 7567305171826138310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda93fc543073d6d0800000000000000
+      internalID: -2966904359306945827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ef5d0ea07b2030800000000000000
+      internalID: 3470991830670108095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e86e8cc6c8e84a0800000000000000
+      internalID: -6589174805941547518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ad866eaf0eb0660800000000000000
+      internalID: 7353218184824543866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0c04833aabc4500800000000000000
+      internalID: 381885278605852903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 168
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadf1737c2467aaa0800000000000000
+      internalID: -6149836624072933969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 138
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731dd2b6ee0ede620800000000000000
+      internalID: 2805145457526690103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6251ca396e061c50800000000000000
+      internalID: 6635506946097107565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 76
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4978c152079c37f0800000000000000
+      internalID: -631463811520890550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 87
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6178cef852ea1def0800000000000000
+      internalID: -85095441591662826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_37
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 87
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67c5164f17a1aa10800000000000000
+      internalID: 1918998668998199148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759659becbaad9470800000000000000
+      internalID: 8403060208126224727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 44
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4da316cc08873aa0800000000000000
+      internalID: -6181322375098553012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutebuildingsgb_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 55
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18556eea0d59be2b0800000000000000
+      internalID: -5554180991911307903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cutebuildingsgb_0: 3340534982695251793
+      cutebuildingsgb_1: 8639351289897517807
+      cutebuildingsgb_10: -3773168634513378224
+      cutebuildingsgb_11: -8875322643530889901
+      cutebuildingsgb_12: -2439805507081060468
+      cutebuildingsgb_13: -331451052593452111
+      cutebuildingsgb_14: 3176367753625050702
+      cutebuildingsgb_15: 1310791498944720424
+      cutebuildingsgb_16: -3788257602691584020
+      cutebuildingsgb_17: 7762659156615001940
+      cutebuildingsgb_18: 7569149154047603523
+      cutebuildingsgb_19: -2674564007366570750
+      cutebuildingsgb_2: -867278958996053670
+      cutebuildingsgb_20: -3065380223469121166
+      cutebuildingsgb_21: 7535464625156703610
+      cutebuildingsgb_22: -1249233064042869483
+      cutebuildingsgb_23: -8317277568690833028
+      cutebuildingsgb_24: -5729100275448600935
+      cutebuildingsgb_25: -3690895574354336636
+      cutebuildingsgb_26: 7567305171826138310
+      cutebuildingsgb_27: -2966904359306945827
+      cutebuildingsgb_28: 3470991830670108095
+      cutebuildingsgb_29: -6589174805941547518
+      cutebuildingsgb_3: 1095642015304721124
+      cutebuildingsgb_30: 7353218184824543866
+      cutebuildingsgb_31: 381885278605852903
+      cutebuildingsgb_32: -6149836624072933969
+      cutebuildingsgb_33: 2805145457526690103
+      cutebuildingsgb_34: 6635506946097107565
+      cutebuildingsgb_35: -631463811520890550
+      cutebuildingsgb_36: -85095441591662826
+      cutebuildingsgb_37: 1918998668998199148
+      cutebuildingsgb_38: 8403060208126224727
+      cutebuildingsgb_39: -6181322375098553012
+      cutebuildingsgb_4: 7630217650477635088
+      cutebuildingsgb_40: -5554180991911307903
+      cutebuildingsgb_5: 2738009933167403245
+      cutebuildingsgb_6: -1352588481311801558
+      cutebuildingsgb_7: -9138030927661235256
+      cutebuildingsgb_8: 3372187194439152785
+      cutebuildingsgb_9: 1502997970701713531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

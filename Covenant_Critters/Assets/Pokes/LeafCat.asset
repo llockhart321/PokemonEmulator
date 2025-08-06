@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: LeafCat
+  m_EditorClassIdentifier: 
+  pokeName: LeafKat
+  baseHP: 100
+  baseAttack: 3
+  baseDefense: 2
+  typeClass: grass
+  frontSprite: {fileID: 8505520715513513622, guid: 402c6ab56008d4436b064f6acdd8cddf, type: 3}
+  backSprite: {fileID: -2254054433147747658, guid: e386e9be5d0d24ab4b2ff4782e850516, type: 3}
+  inventorySprite: {fileID: 8505520715513513622, guid: 402c6ab56008d4436b064f6acdd8cddf, type: 3}
+  attacks:
+  - attackName: Scratch
+    amount: 10
+    type: 5
+  - attackName: Meow
+    amount: 9
+    type: 4
+  - attackName: Bite
+    amount: 16
+    type: 1

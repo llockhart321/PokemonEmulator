@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: Gopher
+  m_EditorClassIdentifier: 
+  pokeName: Gophetch
+  baseHP: 50
+  baseAttack: 4
+  baseDefense: 2
+  typeClass: grass
+  frontSprite: {fileID: -7609608201183233050, guid: c1ce91e868622be49b0ee008e415eb82, type: 3}
+  backSprite: {fileID: -8199197702420182021, guid: 24cd11daa20e0471a9396f412501eea0, type: 3}
+  inventorySprite: {fileID: -4587203377628370464, guid: fbb692ef9bd27eb4b8e3b1cb18122762, type: 3}
+  attacks:
+  - attackName: Burrow
+    amount: 15
+    type: 3
+  - attackName: Scratch
+    amount: 10
+    type: 5
+  - attackName: Chomp
+    amount: 10
+    type: 1

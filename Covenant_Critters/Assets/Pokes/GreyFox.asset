@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: GreyFox
+  m_EditorClassIdentifier: 
+  pokeName: GrayFox
+  baseHP: 100
+  baseAttack: 3
+  baseDefense: 4
+  typeClass: fire
+  frontSprite: {fileID: -4741230599762356784, guid: 4ec369c59bca348baa42a8f5a802e8b7, type: 3}
+  backSprite: {fileID: -4143192165828407727, guid: 59be6661e454342a7a60ee31ef44a5c9, type: 3}
+  inventorySprite: {fileID: -4741230599762356784, guid: 4ec369c59bca348baa42a8f5a802e8b7, type: 3}
+  attacks:
+  - attackName: Taunt
+    amount: 5
+    type: 5
+  - attackName: Murder
+    amount: 16
+    type: 1
+  - attackName: Fuel
+    amount: 5
+    type: 2
+  - attackName: Growl
+    amount: 3
+    type: 4

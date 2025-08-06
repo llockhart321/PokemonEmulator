@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c826beb8445cc684bb771bbca5cd2127, type: 3}
+  m_Name: DarthMator
+  m_EditorClassIdentifier: 
+  pokeName: Darth Mator
+  baseHP: 200
+  baseAttack: 999
+  baseDefense: 5
+  typeClass: normal
+  frontSprite: {fileID: 3138392349967252726, guid: b84b516c6b3d52343aa2f853a306270a, type: 3}
+  backSprite: {fileID: 3138392349967252726, guid: b84b516c6b3d52343aa2f853a306270a, type: 3}
+  inventorySprite: {fileID: 3138392349967252726, guid: b84b516c6b3d52343aa2f853a306270a, type: 3}
+  attacks:
+  - attackName: InstaKill
+    amount: 99
+    type: 1
+  - attackName: Intimidate
+    amount: 2
+    type: 2
+  - attackName: Taunt
+    amount: 2
+    type: 4
